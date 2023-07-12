@@ -6,4 +6,7 @@
 h1 {
     color:antiquewhite;
     background-color: darkcyan;
+    padding: 20px;
+    position: absolute;
+    margin: 10px auto 0 10px;
 }
